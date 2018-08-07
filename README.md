@@ -1,4 +1,4 @@
 # Aura-Photo-Booth
 
-An aura photo booth as Havas New York's internal project.
+A mysterious aura photo booth for Havas New York's internal project.
 
