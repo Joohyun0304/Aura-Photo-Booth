@@ -10,7 +10,4 @@ UI
 
 
 Saved image would look like below. 
-
-
 ![asset 1](https://user-images.githubusercontent.com/31669188/43782935-766634aa-9a2e-11e8-9018-31a393a1b541.png)
-
