@@ -7,4 +7,5 @@ A mysterious aura photo booth for Havas New York's internal project. While final
 Saved image would look like below. 
 
 
-![aura-photo 14 3 08 59 pm](https://user-images.githubusercontent.com/31669188/43782331-1a7aef9c-9a2d-11e8-9478-69991bc085e8.png)
+![asset 1](https://user-images.githubusercontent.com/31669188/43782935-766634aa-9a2e-11e8-9018-31a393a1b541.png)
+
